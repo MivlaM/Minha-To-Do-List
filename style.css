@@ -1,0 +1,31 @@
+.container {
+  max-width: 400px;
+}
+
+.background{
+  color: #a81cee;
+}
+
+input[type=text],
+input[type=text]:focus {
+  color: #fff;
+  border: none;
+  background: rgba(0, 0, 0, 0.616);
+  max-width: 400px;
+}
+
+.todos-container li {
+  background: #0d8bf1;
+}
+
+.delete {
+  cursor: pointer;
+}
+
+.hidden {
+  display: none;
+}
+
+.far {
+  color: black;
+}
